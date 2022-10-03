@@ -1,1 +1,1 @@
-[LIVE DEMO]. (https://amazon-frontend.anugrahmasihapp.repl.co/) here!!.
+[LIVE DEMO]. (http://a-z-frontend.tydurgin.repl.co/) here!!.
